@@ -1,5 +1,5 @@
 # Recipe for Guacamole
-Serves 10
+Serves 4
 
 - 9 avocados, ripe
 - 1.5 small yellow onion, finely diced
